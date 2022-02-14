@@ -1,8 +1,8 @@
 {
-    "name": "Sew-Queen",
+    "name": "Wall e",
     "description": "World Best Whatsapp Bot",
-    "logo": "https://i.ibb.co/cQQ7RkC/main.jpg",
-    "keywords": ["sew", "sewqueen"],
+    "logo": "https://i.ibb.co/g7tc89g/1706405.jpg",
+    "keywords": ["Wall e", "Wall e"],
     "stack": "container",
     "env": {
         "_SEW_QUEEN_SESSION": {
